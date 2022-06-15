@@ -47,6 +47,7 @@ group :development do
   # gem "spring"
 end
 
+gem "faker", "~> 2.20"
 
 gem "devise", "~> 4.8"
 gem "devise-jwt", "~> 0.9.0"

@@ -5,6 +5,7 @@ class CreateProperties < ActiveRecord::Migration[7.0]
       t.integer :price
       t.text :description
       t.text :address
+      t.string :image_url
 
       t.timestamps
     end
