@@ -52,3 +52,6 @@ gem "faker", "~> 2.20"
 gem "devise", "~> 4.8"
 gem "devise-jwt", "~> 0.9.0"
 gem "rack-cors", "~> 1.1"
+
+gem "dotenv-rails", "~> 2.7"
+
